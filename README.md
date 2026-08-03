@@ -20,7 +20,7 @@ old broadcasts that Twitch no longer lists.
 
 ## Download
 
-**[Download the latest version](PASTE_RELEASE_LINK_HERE)**
+**[Download the latest version](https://github.com/DevDuckFace/DFTwitchStream/releases/download/dftsv1.0/DFTwitchStream-1.0.0-setup.exe)**
 
 Run the installer and follow the steps. It asks whether you want English or
 Portuguese, and it can put a shortcut on your desktop.
