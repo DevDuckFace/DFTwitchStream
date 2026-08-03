@@ -12,7 +12,7 @@ old broadcasts that Twitch no longer lists.
 
 <!-- Replace the links below with your own image URLs -->
 
-![Watching a stream with chat](PASTE_SCREENSHOT_LINK_1_HERE)
+![Watching a stream with chat](https://github.com/DevDuckFace/DFTwitchStream/blob/60f69c504b9bf3138bb5e969cf767d0f1d90269f/Screenshot_1.png)
 
 ![Browsing categories](PASTE_SCREENSHOT_LINK_2_HERE)
 
