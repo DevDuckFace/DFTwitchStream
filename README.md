@@ -1,5 +1,11 @@
 # DF Twitch Stream
 
+
+https://github.com/user-attachments/assets/278cb5ff-e4c4-4fac-9676-51f6e5ee5433
+
+
+
+
 A desktop app for Windows that lets you watch Twitch without a browser.
 
 Sign in with your Twitch account, see who is live, and watch the stream with
